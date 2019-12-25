@@ -53,8 +53,8 @@ ___
 
 🔒 [AFDB A6F0 1EB4 73F2 D8EB  022E 9732 6D04 2D53 5A5E](https://keybase.io/kibro_dev/pgp_keys.asc)
 
-__Bitcoin__ 1F42s21eeeJSgft7xj5rgXaK9Qc8GVoRnj
+__Bitcoin__ `1F42s21eeeJSgft7xj5rgXaK9Qc8GVoRnj`
 
-__Monero__ 4AACLszDp8baypzHcNcrGNAhkbP1BK7zc2poPFQhFmai9ng2TYwkVJ9MAZ3Faha7p3AKJD7irLgC5Hq2pWzX8HETQWCDPFD
+__Monero__ `4AACLszDp8baypzHcNcrGNAhkbP1BK7zc2poPFQhFmai9ng2TYwkVJ9MAZ3Faha7p3AKJD7irLgC5Hq2pWzX8HETQWCDPFD`
 
 [Icons created by Macrovector and Freepik - www.freepik.com](https://www.freepik.com)
