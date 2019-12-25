@@ -7,15 +7,21 @@ ___
 
 ### Work Experience
 
-![Image](https://i.ibb.co/bNhJGhp/icon-laptop-message.png)
+<p style="text-align:center">
+  <img src="https://i.ibb.co/bNhJGhp/icon-laptop-message.png" alt="Laptop icon">
+</p>
 
 __Website Development__ Design and development of company websites, online stores (WooCommerce or custom development), social networks and messaging platforms.
 
-![Image](https://i.ibb.co/g3sxSjx/icon-exchange.png)
+<p style="text-align:center">
+  <img src="https://i.ibb.co/g3sxSjx/icon-exchange.png" alt="Blockchain icon">
+</p>
 
 __Blockchain Development__ Creation of Bitcoin/Dash based altcoins, management of full nodes and masternodes, blockchain API integration, custom payment gateways, exchanges, games, web wallets and online stores.
 
-![Image](https://i.ibb.co/sgcTBbP/icon-terminals.png)
+<p style="text-align:center">
+  <img src="https://i.ibb.co/sgcTBbP/icon-terminals.png" alt="Terminal icon">
+</p>
 
 __Software Development__ Bash scripts, automation and tools with Python and Node.js, and custom software with Java and C++.
 
