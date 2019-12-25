@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Kibro Dev | Portfolio
 
-You can use the [editor on GitHub](https://github.com/kibro-dev/kibro-dev.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+__Full-stack web developer and blockchain developer__ with experience in web design; frontend web development with HTML, CSS and JavaScript; backend web development with PHP, SQL and Node.js; server administration with Linux; and software development with Java, Python and C++. 6+ years experience includes company websites, online stores, social networks, cryptocurrency platforms and altcoin ecosystems for global startups, individuals and small businesses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Work Experience
 
-### Markdown
+![Image](https://i.ibb.co/bNhJGhp/icon-laptop-message.png) | [Website Development] Design and development of company websites, online stores (WooCommerce or custom development), social networks and messaging platforms.
+------------ | -------------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://i.ibb.co/g3sxSjx/icon-exchange.png) | [Blockchain Development] Creation of Bitcoin/Dash based altcoins, management of full nodes and masternodes, blockchain API integration, custom payment gateways, exchanges, games, web wallets and online stores.
+------------ | -------------
 
-```markdown
-Syntax highlighted code block
+![Image](https://i.ibb.co/sgcTBbP/icon-terminals.png) | [Software Development] Bash scripts, automation and tools with Python and Node.js, and custom software with Java and C++. 
+------------ | -------------
 
-# Header 1
-## Header 2
-### Header 3
+### Skills
 
-- Bulleted
-- List
+__Graphics Design__ Photoshop, GIMP, Inkscape
 
-1. Numbered
-2. List
+__Frontend__ HTML, CSS, JavaScript
 
-**Bold** and _Italic_ and `Code` text
+__Backend__ PHP, SQL, Node.js, Wordpress, WooCommerce
 
-[Link](url) and ![Image](src)
-```
+__Software Development__ C++, Java, Python
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+__Sysadmin__ Apache, Nginx, Linux (Ubuntu, Debian), Bash
 
-### Jekyll Themes
+__Tools__ Vim, Github, Slack, XMPP, Steemit, Word, Excel, PowerPoint
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kibro-dev/kibro-dev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+:e-mail: kibro.dev @ protonmail.com
+
+:speech_balloon: kibro.dev @ xmpp.chat
+
+:lock: [AFDB A6F0 1EB4 73F2 D8EB  022E 9732 6D04 2D53 5A5E](https://keybase.io/kibro_dev/pgp_keys.asc)
+
+[Icons created by Macrovector and Freepik - www.freepik.com](https://www.freepik.com)
