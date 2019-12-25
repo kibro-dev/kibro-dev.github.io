@@ -2,6 +2,8 @@
 
 __Full-stack web developer and blockchain developer__ with experience in web design; frontend web development with HTML, CSS and JavaScript; backend web development with PHP, SQL and Node.js; server administration with Linux; and software development with Java, Python and C++. 6+ years experience includes company websites, online stores, social networks, cryptocurrency platforms and altcoin ecosystems for global startups, individuals and small businesses.
 
+___
+
 
 ### Work Experience
 
@@ -17,6 +19,8 @@ __Blockchain Development__ Creation of Bitcoin/Dash based altcoins, management o
 
 __Software Development__ Bash scripts, automation and tools with Python and Node.js, and custom software with Java and C++.
 
+___
+
 
 ### Skills
 
@@ -31,6 +35,8 @@ __Software Development__ C++, Java, Python
 __Sysadmin__ Apache, Nginx, Linux (Ubuntu, Debian), Bash
 
 __Tools__ Vim, Github, Slack, XMPP, Steemit, Word, Excel, PowerPoint
+
+___
 
 
 ### Contact
