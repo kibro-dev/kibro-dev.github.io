@@ -27,6 +27,10 @@ __Software Development__ Bash scripts, automation and tools with Python and Node
 
 ___
 
+__Consulting__ How to buy, sell and use crypto; how to accept crypto in your business; how to build crypto platforms and utilize blockchains; how to develop altcoins
+
+___
+
 
 ### Skills
 
